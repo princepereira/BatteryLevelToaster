@@ -3,13 +3,13 @@ WifiBatteryLevelToaster is a java application which keeps informing the battery 
 
 ```
 
-Compile Code
+# Compile Code
 $ javac Tester.java
 
-Create jar
+# Create jar
 $ jar -cvfm WifiBatteryLevelToaster.jar MANIFEST.MF *.class
 
-Run the jar
+# Run the jar
 $ java -jar WifiBatteryLevelToaster.jar
 
 ```
